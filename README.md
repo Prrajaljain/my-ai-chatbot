@@ -7,8 +7,7 @@
 This project is a **Serverless AI Chatbot** designed to provide intelligent responses for technical and general queries. Built as a part of my Cloud Computing portfolio, it demonstrates how to deploy Large Language Models (LLMs) using a "Lean Stack" that costs **$0 to host** while maintaining high performance.
 
 ## 🚀 Live Demo
-🔗 **[Click here to chat with my AI]([https://my-ai-chatbot-hqdpyxpnpsrfrl89o5hywz.streamlit.app/])**
-
+🔗 **[Click here to chat with my AI](https://my-ai-chatbot-hqdpyxpnpsrfrl89o5hywz.streamlit.app)**
 ## 🛠️ Tech Stack
 - **AI Brain:** `meta-llama/Meta-Llama-3-8B-Instruct` (Hugging Face Inference API)
 - **Frontend:** Streamlit (Python Web Framework)
