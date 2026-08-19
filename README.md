@@ -4,7 +4,7 @@
 Llama 3 8B Instruct via Hugging Face Inference API, deployed on Streamlit Community
 Cloud at zero hosting cost.
 
-### 🔗 [Try it — no signup]([https://my-ai-chatbot-hqdpyxpnpsrfrl89o5hywz.streamlit.app](https://static.streamlit.io/badges/streamlit-badge-svg)](https://share.streamlit.io/))
+### 🔗 [Try it — no signup](https://my-ai-chatbot-hqdpyxpnpsrfrl89o5hywz.streamlit.app/)
 
 ---
 
