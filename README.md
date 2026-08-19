@@ -1,5 +1,5 @@
 # 🤖 AI-Powered Engineering Assistant
-### Developed by Prajal Jain | 3rd Year AI Engineering Student
+
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit-badge-svg)](https://share.streamlit.io/)
 
